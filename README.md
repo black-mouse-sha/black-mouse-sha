@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/black-mouse-sha/deepseek-my-fish@main/docs/images/persona-face.png" width="120" alt="@black-mouse-sha">
+<img src="avatar.jpg" width="120" alt="@black-mouse-sha">
 
 ### 唔，这里是 LittlePerson
 
