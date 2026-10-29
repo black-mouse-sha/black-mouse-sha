@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="avatar.jpg" width="120" alt="@black-mouse-sha">
+<img src="https://cdn.jsdelivr.net/gh/black-mouse-sha/black-mouse-sha@main/avatar.jpg" width="120" alt="@black-mouse-sha">
 
 ### 唔，这里是 LittlePerson
 
