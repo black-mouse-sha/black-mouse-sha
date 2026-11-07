@@ -1,6 +1,6 @@
 <div align="center">
 
-### LittlePerson · 梁炎烽
+### LittlePerson · 梁
 
 **AI 应用实施 / 交付方向** · 2027 届 · 深圳
 
