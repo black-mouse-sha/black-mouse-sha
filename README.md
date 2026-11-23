@@ -17,10 +17,10 @@
 | [**多参数环境监测与自动化控制平台**](https://github.com/black-mouse-sha/Intelligent-Detection) | Arduino + ESP-01S 的环境站：5 类参数采集、OLED 显示、阈值报警联动、手机远程监控 | 
 | [**Romantic AI Agent**](https://github.com/black-mouse-sha/Romantic-AI-agent) | Spring Boot + Spring AI 的 RAG 智能体：知识库问答、工具调用、任务规划 |
 
-## 在做的事
+## 希望
 
 - 把重复劳动写成脚本，把脚本写成别人也能用的工具
-- 关心一个东西能不能被装上、被看懂、被维护
+- 想做点东西 和这个世界说点什么
 - 提示词工程与 AI 应用配置的整理：[`prompt`](https://github.com/black-mouse-sha/prompt)
 
 ## 联系
